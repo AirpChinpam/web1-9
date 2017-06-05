@@ -8,7 +8,7 @@
 
 
 body{
-  background-image: url(th023408c.jpg), url(supernova-1987a-2228148_960_720.jpg);
+  background-image: url(../img/th023408c.jpg), url(../img/supernova-1987a-2228148_960_720.jpg);
   background-repeat: no-repeat, no-repeat;
   background-size: 100px 100px, contain;
   background-color: lightgrey;
